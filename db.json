@@ -1,5 +1,53 @@
 {
-  "user": [
-    { "id": 1, "fName": "f1", "lName": "l1" }
+  "locations": [
+    {
+      "id": 1,
+      "coordinate": { "latitude": 45.815, "longitude": 15.9819 },
+      "title": "Senoa",
+      "description": "this is a Senoa",
+      "icon": "../assets/ico/ping_1.png",
+      "img": "..assets/img/senoa.jpg"
+    },
+    {
+      "id": 2,
+      "coordinate": { "latitude": 45.8145, "longitude": 15.9816 },
+      "title": "Matos",
+      "description": "this is a Matos",
+      "icon": "../assets/ico/ping_2.png",
+      "img": "..assets/img/matos.jpg"
+    },
+    {
+      "id": 3,
+      "coordinate": { "latitude": 45.814, "longitude": 15.9813 },
+      "title": "Ujevic",
+      "description": "this is a Ujevic",
+      "icon": "../assets/ico/ping_3.png",
+      "img": "..assets/img/ujevic.jpg"
+    },
+    {
+      "id": 4,
+      "coordinate": { "latitude": 45.8135, "longitude": 15.981 },
+      "title": "Martic",
+      "description": "this is a Martic",
+      "icon": "../assets/ico/ping_4.png",
+      "img": "..assets/img/martic.jpg"
+    },
+    {
+      "id": 5,
+      "coordinate": { "latitude": 45.8136, "longitude": 15.98 },
+      "title": "Krleza",
+      "description": "this is a Krleza",
+      "icon": "../assets/ico/ping_5.png",
+      "img": "..assets/img/krleza.jpg"
+    },
+    {
+      "id": 6,
+      "coordinate": { "latitude": 45.8135, "longitude": 15.9814 },
+      "title": "Zagorka",
+      "description": "this is a Zagorka",
+      "icon": "../assets/ico/ping_6.png",
+      "img": "..assets/img/zagorka.jpg"
+    }
   ]
 }
+
